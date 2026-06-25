@@ -1,0 +1,11 @@
+Review,Sentiment
+"This product is amazing and works perfectly",Positive
+"I love this item and would buy it again",Positive
+"Excellent quality and fast delivery",Positive
+"Very satisfied with the purchase",Positive
+"The product is terrible and disappointing",Negative
+"Waste of money and poor quality",Negative
+"I hate this product",Negative
+"Very bad experience and awful service",Negative
+"Good value for the price",Positive
+"Not worth buying",Negative
